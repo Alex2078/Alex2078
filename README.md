@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex2078
-- 👀 I’m interested in C
+- 👀 I’m interested in C, Python, RUST
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me ...
